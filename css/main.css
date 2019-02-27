@@ -1,0 +1,168 @@
+body{
+    background-color: #f2f2f2;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing:antialiased;
+    -webkit-overflow-scrolling:touch;
+
+    margin-top: 70px;
+    
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 300;
+color: #333;
+
+}
+
+p{
+
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.centered {
+    text-align: center;
+}
+
+a {
+    color: #f85c37;
+}
+
+a:hover , a:focus {
+
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid#ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar{
+    font-weight: 800;
+    font-size: 14px ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-inverse{
+    background: #2d2d2d;
+    border-color: #2d2d2d;
+}
+
+.navbar-inverse .navbar-nav > .active > a{
+    background-color: #ff7878;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #999;
+    font-weight:bolder;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+#headerwrap{
+    background: url(../images/BG2.jpg) no-repeat center top;
+    opacity: 0.91;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment:relative;
+    background-position: center center;
+    min-height: 500px;
+    width: 100%;
+    background-size: 100%;
+    
+
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+}
+
+#headerwrap h1{
+    margin-top: 100px;
+    color:rgb(0, 255, 128);
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+#headerwrap h2{
+    color:rgb(0, 255, 128);
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.w{
+    padding-top: 35px;
+}
+
+.w h4{
+    font-size:28px; 
+}
+
+#dg{
+    background: #e0e0e0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#dg h4{
+    font-size: 40px;
+    color: #ccc;
+}
+
+.ava{
+    
+    block-size:180px;
+    padding-bottom: 20px;
+    
+   
+}
+
+.about{
+    background-color: #1e1e22;
+}
+
+.users h4{
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.users{
+    display: block;
+}
+
+.info{
+    font-size: 28px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+#с{
+    background: #e0e0e0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#c h4{{
+    font-size: 40px;
+    color: #ccc;
+}
+
+
+
